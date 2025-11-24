@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moh Tarique Siddiqui</h1>
-<h3 align="center">A passionate Data Science & Machine Learning enthusiast</h3>
+<h2 align="center">A passionate Data Science & Machine Learning enthusiast</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
